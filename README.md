@@ -2,7 +2,7 @@
 
 [![Build Status](https://travis-ci.com/deitch/searchjs.svg?branch=master)](https://travis-ci.com/deitch/searchjs)
 
-[![codecov](https://codecov.io/gh/deitch/searchjs/branch/master/graph/badge.svg)](https://codecov.io/gh/deitch/searchjs)
+[![codecov](https://codecov.io/gh/deitch/searchjs/branch/master/graph/badge.svg)](https://codecov.io/gh/deitch/searchjs) [![Greenkeeper badge](https://badges.greenkeeper.io/hjemmel/searchjs.svg)](https://greenkeeper.io/)
 
 ## Overview
 jsql is a JavaScript query language, along with a simple JavaScript objects (POJSO) reference implementation.
